@@ -32,7 +32,7 @@ Você não precisa estudar um caso específico. Se quiser revisar alguns temas, 
 
 - Faça perguntas antes de desenhar a solução. Perguntar faz parte da avaliação.
 - Pense em voz alta. O caminho que você percorre importa mais do que a resposta final.
-- Se ajudar, use papel, quadro ou uma ferramenta de desenho. Não é obrigatório.
+- Se ajudar, use papel, quadro ou uma ferramenta de desenho. (Recomendamos usar Draw.io ou Excalidraw)
 - Se não souber algo, diga isso e raciocine a partir do que você conhece.
 - Não há stack ou ferramenta certa. Você pode citar a que conhece, explicando por que a escolheria.
 - Posso dar dicas ao longo da conversa. Ver como você usa uma dica também faz parte do exercício.
